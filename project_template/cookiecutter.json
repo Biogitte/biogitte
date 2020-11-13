@@ -1,8 +1,9 @@
 {
     "project": "Project name.",
-    "repo": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+    "repo": "{{ cookiecutter.project.lower().replace(' ', '_') }}",
     "author": "Author name.",
     "description": "Concise description of the project.",
     "license": ["Equancy All rights reserved", "MIT"],
-    "work_dir": "$HOME/path/to/working_directory",
+    "directory_name": "Directory name",
+    "directory_path": "Path to working directory"
 }

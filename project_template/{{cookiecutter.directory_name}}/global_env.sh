@@ -1,6 +1,6 @@
 #!/bin/bash
 
-export WORK_DIR={{cookiecutter.work_dir}}
+export WORK_DIR={{cookiecutter.directory_path}}
 
 export DATA=$WORK_DIR/data
 export DATA_RAW=$DATA/raw
