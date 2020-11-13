@@ -5,5 +5,5 @@ setup(
     packages=find_packages(),
     version='0.1.0',
     description='{{ cookiecutter.description }}',
-    author='{{ cookiecutter.author_name }}',
+    author='{{ cookiecutter.author }}',
     license='{% if cookiecutter.license == "MIT" %}MIT{% else %}Equancy{% endif %}')
