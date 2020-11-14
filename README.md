@@ -5,6 +5,8 @@
 **Background:** 
 - I'm a molecular biologist that fell in love with computers.
 
+![copepod](copepod.gif)
+
 **Journey:** 
 - It started with some stressed copepods in a lab - and some old fashioned calculations in Excel of, mostly qPCR data. 
 <iframe src="https://giphy.com/embed/l1EtodcOX1HyqvXuE" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/spongebob-spongebob-squarepants-season-9-l1EtodcOX1HyqvXuE">via GIPHY</a></p>
