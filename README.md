@@ -1,3 +1,6 @@
 ### Hi, I'm Biogitte 👋
 
-![copepod](copepod.gif)
+
+<p align="center">
+  <img src="copepod.gif" />
+</p>
