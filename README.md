@@ -14,6 +14,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biogitte&show_icons=true&layout=compact)](https://github.com/biogitte/github-readme-stats)
 
 
+<a href="https://github.com/biogitte/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=biogitte&show_icons=true&layout=compact" />
+</a>
+<a href="https://github.com/biogitte/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biogitte&show_icons=true&layout=compact" />
+</a>
+
+
 ### 🔧 Technologies & Tools:
 ![](https://img.shields.io/badge/-Python-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
