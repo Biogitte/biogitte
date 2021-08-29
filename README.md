@@ -17,7 +17,8 @@
 
 
 ### 🔧 Technologies & Tools:
-![](https://img.shields.io/badge/-Python-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/-R-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![Python](https://img.shields.io/badge/-Python-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![Bash](https://img.shields.io/badge/-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![R](https://img.shields.io/badge/-R-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![Docker](https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white&color=2bbc8a)
