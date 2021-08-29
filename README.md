@@ -1,6 +1,6 @@
 ### Hi, I'm Biogitte 👋
 
-### Background:
+### ☘️ Background:
 - I'm a molecular biologist that fell in love with computers.
 
 
