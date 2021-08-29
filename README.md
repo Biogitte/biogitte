@@ -8,12 +8,7 @@
   <img src="copepod.gif" />
 </p>
 
-### Statistics:
-![Biogitte's github stats](https://github-readme-stats.vercel.app/api?username=biogitte&show_icons=true&layout=compact)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biogitte&show_icons=true&layout=compact)](https://github.com/biogitte/github-readme-stats)
-
-
+### Stats:
 <a href="https://github.com/biogitte/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=biogitte&show_icons=true&layout=compact" />
 </a>
