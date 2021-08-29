@@ -8,9 +8,7 @@
   <img src="copepod.gif" />
 </p>
 
-<p align="center">
 ![Biogitte's github stats](https://github-readme-stats.vercel.app/api?username=biogitte&show_icons=true&theme=cobalt)
-</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biogitte&show_icons=true&theme=cobalt)](https://github.com/biogitte/github-readme-stats)
 
