@@ -25,3 +25,4 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white&color=blue)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&color=blue)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white&color=blue)
+![Keras](https://img.shields.io/badge/-Keras-black?style=flat-square&logo=Keras&logoColor=white&color=blue)
