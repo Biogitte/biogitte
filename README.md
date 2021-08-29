@@ -10,9 +10,10 @@
 
 <p align="center">
 ![Biogitte's github stats](https://github-readme-stats.vercel.app/api?username=biogitte&show_icons=true&theme=cobalt)
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biogitte&show_icons=true&theme=cobalt)](https://github.com/biogitte/github-readme-stats)
-</p>
+
 
 ### 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/-Python-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
