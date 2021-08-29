@@ -8,9 +8,9 @@
   <img src="copepod.gif" />
 </p>
 
-![Biogitte's github stats](https://github-readme-stats.vercel.app/api?username=biogitte&show_icons=true&theme=cobalt)
+![Biogitte's github stats](https://github-readme-stats.vercel.app/api?username=biogitte&show_icons=true&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biogitte&show_icons=true&theme=cobalt)](https://github.com/biogitte/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biogitte&show_icons=true&layout=compact)](https://github.com/biogitte/github-readme-stats)
 
 
 ### 🔧 Technologies & Tools
