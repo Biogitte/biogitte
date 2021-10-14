@@ -1,7 +1,6 @@
 ### Hi, I'm Biogitte 👋
 
-### 🪴 Background:
-- I'm a molecular biologist that fell in love with computers.
+🪴 I'm a molecular biologist that fell in love with computers.
 
 <p align="center">
   <img src="copepod.gif" />
